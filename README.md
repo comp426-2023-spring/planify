@@ -1,6 +1,6 @@
-# a99 Final Project Template Repo
+# Final Project 
 
-**DUE:** 2023-05-05T22:00 (End of Exam Period)
+**DUE:** 2023-05-05T22:00
 
 General final project issues and questions: https://github.com/comp426-2022-spring/a99/issues
 
@@ -49,16 +49,6 @@ Your team is responsible for incorporating the following specifications and deli
 5. Demo video
 	1. In order to get credit for this, add a row to the table in the README here and make a pull request: https://github.com/comp426-2022-fall/a99-demos/edit/main/README.md
 7. Self/group evaluation (Individual group members: this is part of the final exam for the course.)
-
-## Logistics
-
-You have been assigned to work on a small team for the final project assignment. 
-
-Your team will be responsible for planning the project, determining roles, and then employing a collaborative workflow to build out your project.
-Different people will be interested in different parts of the project.
-Not everyone has to do the same things, nor should they.
-
-Teams have been created for you and you should have received an invitation to the team and the class GitHub organization.
 
 ### Using collaboration features on GitHub
 
