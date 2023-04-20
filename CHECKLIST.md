@@ -1,4 +1,4 @@
-# a99 Checklist
+# Planify Checklist
 
 ## First steps
 
@@ -17,27 +17,17 @@
 
 ## Team mangement 
 
-Plan to meet with your team ASAP.
-Talk through identifying roles within your team.
-
-Try to figure out what each of you are good at/enjoy doing and try to work out roles that incorporate that.
-
-Some basic roles you will want to consider:
-
 1. A review manager - someone to review pull requests and merge or reject them and manage the related discussions
-2. A plan manager - someone to keep an eye on the overall plan and keep the project tab/to-do list up to date
-3. A documentation manager - someone to keep the documentation in order and identify what is missing and needs to be documented
-4. A release manager - someone to manage the packaging and release process for your prototype package
-5. A project manager - someone keeping track of all the moving parts and make sure that everything that needs to happen is happening
-5. Roles for team members to take charge or different parts of the project. Possible roles:
+3. A plan manager - someone to keep an eye on the overall plan and keep the project tab/to-do list up to date
+4. A documentation manager - someone to keep the documentation in order and identify what is missing and needs to be documented
+5. A release manager - someone to manage the packaging and release process for your prototype package
+6. A project manager - someone keeping track of all the moving parts and make sure that everything that needs to happen is happening
+7. Roles for team members to take charge or different parts of the project. Possible roles:
     1. Front end lead
     2. Back end lead
     3. Database lead
     4. Design lead
     5. Etc.
-
-You will notice that there are more roles than people in your group.
-That is because you will all be doing a hybrid job of managing a thing while working on other things.
 
 ## Next steps
 
@@ -53,9 +43,3 @@ That is because you will all be doing a hybrid job of managing a thing while wor
 10. Assemble your final documentation.
 11. Clean up code and create a release.
 12. Create a pull request to post a link to your project and your demo the demo repo: https://github.com/comp426-2023-spring/a99-project-demo/
-
-## Go!
-
-And that is about all you need to get started.
-
-Good skill and be creative!
